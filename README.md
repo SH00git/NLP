@@ -24,7 +24,7 @@
 
 - **NER Classification** - Predict the Tags of text entities based on classification Training
   - Dataset:https://www.kaggle.com/datasets/abhinavwalia95/entity-annotated-corpus?select=ner_dataset.csv
-  - Code:
+  - Code: https://github.com/SH00git/NLP/blob/main/P13.%20NER%20Recognition%20and%20Classification.ipynb
   - Steps:
     - Libraries Used: pandas, numpy, spacy, Scikit Learn,seaborn, matplotlib, string, unicode
     - Modelling: Logistic Regression, NaivesBayes Model tuned with GridSearchCV
