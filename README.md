@@ -1,4 +1,4 @@
 - SMS Spam Analysis Data
   - Dataset:https://github.com/SH00git/NLP/blob/main/P10.0spam.csv
-  - Code:
+  - Code: https://github.com/SH00git/NLP/blob/main/P10.0%20SMS%20Spam%20Analysis.ipynb
 - --  
