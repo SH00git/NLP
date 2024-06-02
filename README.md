@@ -33,7 +33,7 @@
 
 - **Flipkart Sentiment Analysis**
   - Dataset:https://github.com/SH00git/NLP/blob/main/P14.0flipkart_data.csv
-  - Code:
+  - Code: https://github.com/SH00git/NLP/blob/main/P14.Sentiment%20Analysis.ipynb
   - Steps:
     - Libraries Used: pandas, numpy, spacy, Scikit Learn,seaborn, matplotlib, string, unicode
     - Preprocessing: Lowercasing, Stop Word and Punctuation Removal, Regex for removing special characters, Unicode text conversion  Tokenisation, Lemmetization, Vectorization (TF-IDF).
