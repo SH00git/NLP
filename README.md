@@ -12,7 +12,7 @@
 
 - **News Category Classification**
   - Dataset:
-  - Code:
+  - Code: https://github.com/SH00git/NLP/blob/main/P11.%20News%20Category%20Classification.ipynb
  
   - Steps:
     - Libraries Used: pandas, numpy, spacy, Scikit Learn,seaborn, matplotlib, string, unicode
@@ -20,4 +20,13 @@
     - Visualisation: Histogram, Bar plots
     - Modelling: NaivesBayes Model tuned with GridSearchCV
     - Results: Classification Report, accuracy_score and Confusion Matrix
-    -  - Achieved an accuracy of 0.42
+    - Achieved an accuracy of 0.42
+
+- **NER Classification** - Predict the Tags of text entities based on classification Training
+  - Dataset:https://www.kaggle.com/datasets/abhinavwalia95/entity-annotated-corpus?select=ner_dataset.csv
+  - Code:
+  - Steps:
+    - Libraries Used: pandas, numpy, spacy, Scikit Learn,seaborn, matplotlib, string, unicode
+    - Modelling: Logistic Regression, NaivesBayes Model tuned with GridSearchCV
+    -  Results: Classification Report, accuracy_score and Confusion Matrix
+    - Achieved an accuracy of 0.92
