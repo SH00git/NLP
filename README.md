@@ -32,7 +32,7 @@
     - Achieved an accuracy of 0.92
 
 - **Flipkart Sentiment Analysis**
-  - Dataset:
+  - Dataset:https://github.com/SH00git/NLP/blob/main/P14.0flipkart_data.csv
   - Code:
   - Steps:
     - Libraries Used: pandas, numpy, spacy, Scikit Learn,seaborn, matplotlib, string, unicode
