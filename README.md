@@ -11,7 +11,7 @@
     - Achieved an accuracy of 0.98 
 
 - **News Category Classification**
-  - Dataset:
+  - Dataset:https://www.kaggle.com/code/hengzheng/news-category-classifier-val-acc-0-65
   - Code: https://github.com/SH00git/NLP/blob/main/P11.%20News%20Category%20Classification.ipynb
  
   - Steps:
@@ -30,3 +30,14 @@
     - Modelling: Logistic Regression, NaivesBayes Model tuned with GridSearchCV
     -  Results: Classification Report, accuracy_score and Confusion Matrix
     - Achieved an accuracy of 0.92
+
+- **Flipkart Sentiment Analysis**
+  - Dataset:
+  - Code:
+  - Steps:
+    - Libraries Used: pandas, numpy, spacy, Scikit Learn,seaborn, matplotlib, string, unicode
+    - Preprocessing: Lowercasing, Stop Word and Punctuation Removal, Regex for removing special characters, Unicode text conversion  Tokenisation, Lemmetization, Vectorization (TF-IDF).
+    -  Visualisation:  Bar plots, word clouds
+    - Modelling: Model Selection using cross validation, Tuned hyper parameters for logistic regression,RandomForest, SupportVector, NaivesBayes,Decision Trees using RandomizedSearchCV
+    -  Results: Classification Report, accuracy_score and Confusion Matrix
+    - Achieved an accuracy of 0.42
